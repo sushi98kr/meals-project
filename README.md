@@ -1,1 +1,2 @@
-# meals-project
+# Meals-app
+ 
